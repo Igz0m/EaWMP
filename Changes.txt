@@ -1,0 +1,52 @@
+Changes to Eaw in this submod(list will cover changes in order of folder structure)
+1)Common
+1.0,5)Autonomous_states: Vassal can be built in by overlord
+1.1)Decisions
+1.1.1)Bronzehill integration costs 150 pp instead of 200 pp
+1.1.3)Karthinian empire now does not require to own cores of proto-vassals(FRE TAL ARA)
+1.2)Ideas
+1.2.1)Science bases -research have been decreased to -25%/-50%/-75% respectivly
+1.2.2)You now can lower your economic mobilization from total to war economy even at peace
+1.2.3)Illiteracy is now 1.5 times weaker
+1.2.4)Bronezehill can get fighter bureu without a bs focus(that requires a gurantee from FEA!!!)
+1.2.5)Made all 3 majors of Griffonia have -40%(50) reasearch debuff instead of -60%(70)
+1.2.6)changes to Yale doctrine ideas
+1.2.7)Sicameon idea fix
+1.3)National Focuses
+1.3.1)Significantly lowered ai RNG of empire vassals(BRZ KAT(not now) STW mostly their progression in their polit trees)
+1.3.2)CHN-GRI attache no longer automatically recalled on "Lead the Armies" focus and Pax chrysalia annihilated 
+1.3.3)Removed at peace checks in Nova griffonia focus tree
+1.3.4)Made lord protector much more viable(Reworked coring through focuses and research slot on neukulture)
+1.3.5)Lord's lab now gives a research slot
+1.3.6)Hellquill NA path is no longer broken
+1.3.7)Riv atom can give 6th research slot
+1.3.8)Made vedina more playable(84 focuses reduced to 56)
+1.3.9)Tank Bonus fixes for WNG and YAL
+1.3.11)Sicameon now can do "all" focuses even if it is a puppet
+2)Events
+2.1)Tarrin demand is now always refused by ai
+2.2)If you shelter Thranx he is not killed
+2.3)Gryphian host joining River Coalition does not cause certain nations to leave(like Fascist LCT)
+2.4)Vedina should not get -pp events
+2.5)Falcor always refuses annexation
+3)History
+3.1)Countries
+3.1.1)Additional starting research slots for BRF NCH and VED
+3.1.2)NCH and GRY now start with Industrializing society instead of agrarian
+
+
+I am lazy to organize yet again:
+Vassals can now be built in by their overlords
+Some trickery with bookmarks
+Discount for some decisions of skyfall and feathisia
+Decreased poverty ideas debuffs
+Some idea changes to griff republic
+collab governments for non-alligned countries
+Avian fascist tree checks altered
+Griffinmarchen economic focuses speed up
+Collab government preparation speed up(also regular collab result now gives cooldown of 540 days(1.5y))
+Avian fascists core verenya region imeadiatly
+Dutchess ai always accepts mariage proposal from FEA
+Grifinmarchen does not recieve -party popularity from eco events
+Deleted option to join republican pact gurantees
+Even more RNG deleted
